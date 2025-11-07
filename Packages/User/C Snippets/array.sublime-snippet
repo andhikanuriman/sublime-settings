@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+arr[${1:index}] = [${2:value}]
+    ]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>arr</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.c</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Array</description>
+</snippet>

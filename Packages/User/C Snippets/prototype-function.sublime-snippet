@@ -1,0 +1,13 @@
+<!-- Prototype Function -->
+
+<snippet>
+    <content><![CDATA[
+${1:void} ${2:functionName} (${3:param});
+]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>function</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.c</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Prototype Function</description>
+</snippet>

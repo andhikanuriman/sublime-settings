@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"FileIcons",
+		"Package Control",
+		"SideBarEnhancements",
+		"Terminus",
+		"Transparency",
+	],
+	"in_process_packages":
+	[
+	],
+}

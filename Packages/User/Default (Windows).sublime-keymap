@@ -1,0 +1,29 @@
+[
+	{
+		"keys": ["ctrl+w"],
+		"command": "terminus_close"
+	},
+	{
+		"keys": ["ctrl+w"],
+		"command": ["close", "close_file"]
+	},
+	{
+		"keys": ["ctrl+w"],
+		"command": "close_transient", "context":
+		[
+			{ "key": "group_has_transient_sheet", "operator": "equal", "operand": true }
+		]
+	},
+	{
+		"keys": ["alt+z"],
+	    "command": "toggle_setting",
+	    "args":
+	    {
+	        "setting": "word_wrap"
+	    }
+	},
+	{
+		"keys": ["ctrl+shift+o"],
+		"command": "prompt_open_folder"
+	},
+]

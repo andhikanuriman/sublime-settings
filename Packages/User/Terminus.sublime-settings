@@ -1,0 +1,16 @@
+{
+	"default_config": {
+		"windows": "Command Prompt",
+	},
+	"theme": "dark-pastel",
+
+// 	"theme": "user",
+// 	"user_theme_colors": {
+// 		"background": "#000000",
+// 		"foreground": "#ffffff",
+// 		"caret": "yellow",
+// 		// "block_caret": "yellow",
+// 		"selection": "#ff0000",
+// 		"selection_foreground": "white",
+// 	},
+}

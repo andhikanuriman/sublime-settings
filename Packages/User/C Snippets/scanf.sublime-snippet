@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+scanf("%${0:d}", ${1:var_name}); // getchar();
+]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>scanf</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.c</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Input</description>
+</snippet>
